@@ -1,4 +1,4 @@
-package Lesson5Retrofit;
+package Lesson61;
 
 import com.github.javafaker.Faker;
 import lesson5.api.CategoryService;
